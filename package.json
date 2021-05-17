@@ -1,0 +1,21 @@
+{
+  "name": "gymweb",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "nunjucks": "^3.2.3",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "browse": "^0.4.0",
+    "nodemon": "^2.0.7"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/RafaellSales/bloggy",
+  "author": "rafael santana<rafael.si2018.2@gmail.com>"
+}

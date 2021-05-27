@@ -1,3 +1,3 @@
 # GymWeb
 
-System web of a gym with node.js  back-end and java script front-end
+A gym's web page using java script and node.js as the postgresql database and MVC architecture
